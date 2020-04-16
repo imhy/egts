@@ -54,6 +54,9 @@ const SrLiquidLevelSensorType = 27
 //SrPassengersCountersType код типа подзаписи EGTS_SR_PASSENGERS_COUNTERS
 const SrPassengersCountersType = 28
 
+//SrEmptyType пустой пакет в пакете AUTH_SERVICE
+const SrEmptyType = 5
+
 //PtAppdataPacket код типа пакета PT_APP_DATA
 const PtAppdataPacket = 1
 
